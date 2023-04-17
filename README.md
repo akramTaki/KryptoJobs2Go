@@ -4,10 +4,10 @@ KryptoJobs2Go is used to find fintech professionals from a list of candidates, h
 The purpose is to enable the customers to instantly pay their hired fintech professionals with cryptocurrency.
 
 ## Valid transaction
-![image](block_contents.png)
+![image](validated_transaction.png)
 
 ## Ganache account
-![image](account.png)
+![image](ganache_account.png)
 
 ## Transaction
 ![image](transaction.png)
